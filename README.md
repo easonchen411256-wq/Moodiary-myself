@@ -4,7 +4,7 @@ Moodiary 是一款情绪日记产品。
 它帮助你写下当下感受。
 也帮助你看见长期变化。
 
-在线体验：<https://easonchen411256-wq.github.io/moodiary-web/>
+在线体验：<https://easonchen411256-wq.github.io/Moodiary-myself/>
 
 > 本仓库用于 GitHub Pages。
 > 文件来自 Flutter Web 发布构建。
@@ -303,8 +303,7 @@ AI 设置用于管理模型配置。
 
 ## 发布信息
 
-- 发布地址：<https://easonchen411256-wq.github.io/moodiary-web/>
+- 发布地址：<https://easonchen411256-wq.github.io/Moodiary-myself/>
 - 发布分支：`main`
 - 发布方式：Flutter Web 与 GitHub Pages
-- 当前路径：`/moodiary-web/`
-
+- 当前路径：`/Moodiary-myself/`
